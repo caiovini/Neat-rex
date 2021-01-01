@@ -20,5 +20,5 @@ install requirements: "pip3 install -r requirements"<br/>
 
 ## Resources 
 
-Assets for this game can be found here [Here!](https://github.com/wayou/t-rex-runner/tree/gh-pages/assets)
+Assets for this game can be found [Here!](https://github.com/wayou/t-rex-runner/tree/gh-pages/assets)
 
